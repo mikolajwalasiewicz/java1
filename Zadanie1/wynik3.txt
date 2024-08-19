@@ -1,0 +1,14 @@
+a) Liczba cyfr w pliku liczby3a.txt: 17769
+b) Najmniejsza liczba w pliku liczby3a.txt: 102863
+c) Liczba liczb występujących jednocześnie w obu plikach: 8
+d) Liczba liczb kończących się odpowiednio cyframi:
+   - Kończących się cyfrą 0: 205
+   - Kończących się cyfrą 1: 187
+   - Kończących się cyfrą 2: 207
+   - Kończących się cyfrą 3: 209
+   - Kończących się cyfrą 4: 201
+   - Kończących się cyfrą 5: 197
+   - Kończących się cyfrą 6: 209
+   - Kończących się cyfrą 7: 183
+   - Kończących się cyfrą 8: 181
+   - Kończących się cyfrą 9: 221
